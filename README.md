@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요! 제 GitHub 프로필에 오신 것을 환영합니다
 
-![header](https://raw.githubusercontent.com/hossi-py/hossi-py/master/images/star.webp)
+![header](https://raw.githubusercontent.com/hossi-py/hossi-py/master/images/YOUKNOW.gif)
 
 ## 🚀 기술 스택 & 도구들
 
