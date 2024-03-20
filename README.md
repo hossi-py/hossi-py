@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요! 제 GitHub 프로필에 오신 것을 환영합니다
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:9198e5,100:a82da8&height=200&text=%20수진's%20Profile%20&fontAlign=70&fontAlignY=35&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:9198e5,100:a82da8&height=200&text=%20윤호's%20Profile%20&fontAlign=70&fontAlignY=35&fontSize=30&fontColor=ffffff)
 
 ## 🚀 기술 스택 & 도구들
 
