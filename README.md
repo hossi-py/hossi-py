@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요! 제 GitHub 프로필에 오신 것을 환영합니다
 
-<img src="https://raw.githubusercontent.com/hossi-py/hossi-py/master/images/YOUKNOW.gif" width="100%" height="auto">
+<img src="https://raw.githubusercontent.com/hossi-py/hossi-py/master/images/YOUKNOW.gif" width="100%" height="50%">
 
 ## 🚀 기술 스택 & 도구들
 
